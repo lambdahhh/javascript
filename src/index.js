@@ -5,4 +5,5 @@
 // import './components/array/map';
 // import './components/array/flat';
 // import './components/array/filter';
-import './components/array/find-index';
+// import './components/array/find-index';
+import './components/array/sort';
