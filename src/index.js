@@ -3,4 +3,5 @@
 // import './components/array/reduce';
 // import './components/array/reduce-right';
 // import './components/array/map';
-import './components/array/flat';
+// import './components/array/flat';
+import './components/array/filter';
